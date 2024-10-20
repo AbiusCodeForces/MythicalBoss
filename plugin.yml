@@ -1,0 +1,8 @@
+name: MythicalBoss
+api: 5.0.0
+version: 1.0.0
+main: Abius\MythicalBoss\Loader
+author: AbiusMatrix
+permissions:
+  boss.cmd:
+    default: op
